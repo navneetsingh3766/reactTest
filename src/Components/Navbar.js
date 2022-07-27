@@ -17,8 +17,8 @@ function Navbar() {
           />
         </div>
         <div className="col-auto">
-          <span className="p-4 m-4">Brew tour</span>
-          <span className="p-4 m-4" style={{ border: " 2px solid #FFFFFF" }}>
+          <span className="p-4 ">BREW TOUR</span>
+          <span className="p-4" style={{ border: " 2px solid #FFFFFF" }}>
             FIND MY BEER
           </span>
         </div>
