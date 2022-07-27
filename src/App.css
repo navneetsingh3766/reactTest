@@ -1,0 +1,14 @@
+.hero-font {
+  font-weight: 900;
+  font-size: 100px;
+  line-height: 90px;
+}
+
+.bg-img {
+  /* background-image: url("/images/heroImg.png"); */
+  background-size: cover;
+}
+
+.hero-height {
+  height: calc(90vh - 100px);
+}
